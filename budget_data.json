@@ -1,0 +1,17 @@
+{
+    "initial_budget": 1000.0,
+    "expenses": [
+        {
+            "description": "Groceries",
+            "amount": 200.0
+        },
+        {
+            "description": "Toys",
+            "amount": 300.0
+        },
+        {
+            "description": "Lunch/Dinner",
+            "amount": 300.0
+        }
+    ]
+}
